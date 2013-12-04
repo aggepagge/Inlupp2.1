@@ -1,0 +1,7 @@
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\ParticleSimulation\ParticleSimulation\ParticleSimulation\obj\x86\Debug\ParticleSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\ParticleSimulation\ParticleSimulation\ParticleSimulation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\ParticleSimulation\ParticleSimulation\ParticleSimulation\bin\x86\Debug\ParticleSimulation.exe
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\ParticleSimulation\ParticleSimulation\ParticleSimulation\bin\x86\Debug\ParticleSimulation.pdb
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\ParticleSimulation\ParticleSimulation\ParticleSimulation\obj\x86\Debug\ParticleSimulation.exe
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\ParticleSimulation\ParticleSimulation\ParticleSimulation\obj\x86\Debug\ParticleSimulation.pdb
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\ParticleSimulation\ParticleSimulation\ParticleSimulation\bin\x86\Debug\Content\ball3.xnb
